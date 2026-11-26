@@ -2,18 +2,28 @@
 
 ###
 
-<img align="center" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFsdHNlYjl3MXhrNGkyNXY5ZGtraGJ2aDhhNTBieTAzMXJoczl6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u3FkALt43MEevjHzYm/giphy.gif"  />
+<div align="center">
+  <img
+    height="200"
+    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFsdHNlYjl3MXhrNGkyNXY5ZGtraGJ2aDhhNTBieTAzMXJoczl6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u3FkALt43MEevjHzYm/giphy.gif"
+    alt="GIF"
+  />
+</div>
 
 ###
 
 <br clear="both">
 
 <div align="center">
+  <!--
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  -->
   <a href="https://www.instagram.com/stevenn_hw/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=wynnwww&logo=discord&label=Discord&color=7289DA&logoColor=white&labelColor=7289DA&style=for-the-badge" height="25" alt="discord logo"  />
+  <a href="https://discord.com/users/wynnnwww" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=wynnwww&logo=discord&label=Discord&color=7289DA&logoColor=white&labelColor=7289DA&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
 </div>
 
 ###
